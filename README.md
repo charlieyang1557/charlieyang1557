@@ -13,7 +13,7 @@ building automated trading systems and AI-powered applications.
 LLM streaming, React frontend. 
 [Try it live →](https://resume-chatbot-production.up.railway.app/)
 
-📈 **Automated Trading System** — Market-making engine for prediction 
+📈 **[Automated Trading System](https://github.com/charlieyang1557/polymarket-arb)** — Market-making engine for prediction 
 markets (Polymarket US & Kalshi). OBI microprice, 4-layer risk 
 management, platform-agnostic adapter pattern. Paper trading: 
 +151.9c P&L across 71+ fills.

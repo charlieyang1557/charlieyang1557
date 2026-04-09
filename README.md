@@ -1,4 +1,4 @@
-# Hi, I'm Charlie (Yutian) Yang 👋
+# Hi, I'm Yutian (Charlie) Yang 👋
 
 **Data Scientist & ML** — UC Davis Statistics & Economics (MS + BS)
 

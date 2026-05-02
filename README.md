@@ -16,6 +16,8 @@ LLM streaming, React frontend.
 🎲 **[BoardGameOracle](https://github.com/charlieyang1557/boardgame-rules-RAG)** — RAG-powered board game rules Q&A with multi-hop reasoning and citation verification. Answers complex rules questions across 4 games (Splendor, Catan, Speakeasy, Food Chain Magnate) with cited sources from official rulebooks. Hybrid BM25/Pinecone retrieval, 3-tier answer system, cross-encoder reranking, config-driven chunking for complex games.
 [Try it live →](https://boardgame-rules-rag-production.up.railway.app)
 
+📊 **[BTC Alpha Pipeline](https://github.com/charlieyang1557/btc-alpha-pipeline)** — Quant research pipeline for discovering and validating BTC trading strategies. Validated Binance OHLCV ingestion, walk-forward backtesting, feature/factor engineering, strategy DSL, holdout evaluation gates, and multiple-testing controls for separating real signal from backtest overfitting.
+
 📈 **[Automated Trading System](https://github.com/charlieyang1557/polymarket-arb)** — Market-making engine for prediction 
 markets (Polymarket US & Kalshi). OBI microprice, 4-layer risk 
 management, platform-agnostic adapter pattern. Paper trading: 

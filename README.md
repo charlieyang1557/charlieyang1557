@@ -20,8 +20,7 @@ LLM streaming, React frontend.
 
 📈 **[Automated Trading System](https://github.com/charlieyang1557/polymarket-arb)** — Market-making engine for prediction 
 markets (Polymarket US & Kalshi). OBI microprice, 4-layer risk 
-management, platform-agnostic adapter pattern. Paper trading: 
-+151.9c P&L across 71+ fills.
+management, platform-agnostic adapter pattern.
 
 🍽️ **[Tock Reservation Bot](https://github.com/charlieyang1557/tock-reservation-bot)** 
 — Playwright-based sniper for high-demand restaurants. 6-selector 
